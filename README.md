@@ -1,4 +1,6 @@
 # Web-Scraper-for-parsing-financial-data
+![1](https://github.com/Fetkulingr/Web-Scraper-for-parsing-financial-data/assets/103204349/bf5fd339-07f5-4b10-9cee-d9588faae5ee)
+
 # Описание программы:
 Web Scraper для парсинга финансовых данных - это инструмент, который позволяет автоматически собирать и сохранять информацию о финансовых данных со страницы сайта. Программа использует Selenium WebDriver для взаимодействия с веб-страницей и извлечения данных.
 # Основные функции программы:
