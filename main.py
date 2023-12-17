@@ -1,3 +1,11 @@
+'''
+This module make
+
+Athor: Fetkulin Grigory, Fetkulin.G.R@yandex.ru
+Starting 2023/10/04
+Ending 2024//
+
+'''
 import csv
 import time
 from datetime import datetime, timedelta
