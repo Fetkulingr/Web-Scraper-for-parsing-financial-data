@@ -3,7 +3,7 @@ This module make
 
 Athor: Fetkulin Grigory, Fetkulin.G.R@yandex.ru
 Starting 2023/10/04
-Ending 2023/10/12
+Ending 2024//
 
 '''
 import csv
@@ -46,7 +46,7 @@ def parse_and_save(selected_date):
             writer = csv.writer(file, delimiter='^')
             # Writing column names to a file
             writer.writerow(['Ticker', 'Time', 'Transaction price_1', 'Transaction price_2', 'Transaction price_3', 'Price before closing', 'Price at opening', 'Minimum price', 'Average overpriced', 'Pieces per day', 'Quantity per day', 'Rub', 'Number of transactions per day'])
-            # Получаем все строки таблицы
+            # Getting all the rows of the table
             rows = table.find_elements(By.TAG_NAME, 'tr')
             # Write each line to a file
             for row in rows:
