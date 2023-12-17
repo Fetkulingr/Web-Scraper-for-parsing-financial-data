@@ -3,7 +3,7 @@ This module make
 
 Athor: Fetkulin Grigory, Fetkulin.G.R@yandex.ru
 Starting 2023/10/04
-Ending 2024//
+Ending 2023/10/12
 
 '''
 import csv
